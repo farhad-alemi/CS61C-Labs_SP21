@@ -1,16 +1,16 @@
 Exercise 1:
-    1.
-    2.
-    3.
-    4. 
-    5. 
-    6. 
+    1. 32
+    2. 5, 5, 0, 5
+    3. no, no
+    4. 12, 8, 2, 10, 11, 3, 6, 7, 5, 4, 1, 9
+    5. 2, 3
+    6. 4, 8
 
 Exercise 2:
-    1.
+    1. 00, 20, 40, 60, 80, A0, C0, E0, 00, 20
 
 Exercise 3:
-    1.
+    1. Physical Memory Size, TLB Size
 
 Exercise 4 Checkoff Question:
-    1.
+    1. 2, 3, 6
